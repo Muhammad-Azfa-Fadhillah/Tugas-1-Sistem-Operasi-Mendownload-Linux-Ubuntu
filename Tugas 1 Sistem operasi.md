@@ -4,4 +4,4 @@ Nim : 09011382530151
 
 Tugas 4 Sistem Operasi
 
-![Gambar 1](Screenshot%202026-09-07%19191937.png)
+![Gambar 1](Screenshot%202026-09-07%20191937.png)
